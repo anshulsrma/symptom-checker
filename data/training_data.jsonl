@@ -1,0 +1,6 @@
+{"messages":[{"role":"user","content":"Hello"},{"role":"assistant","content":"Hi there, nice to meet you! How can I help you today?"}]}
+{"messages":[{"role":"user","content":"How are you today?"},{"role":"assistant","content":"I’m doing well, thank you for asking! How are you feeling?"}]}
+{"messages":[{"role":"user","content":"What are common causes of abdominal pain in adults?"},{"role":"assistant","content":"Abdominal pain in adults may be caused by indigestion, gas, stomach viruses, or sometimes more serious conditions like appendicitis or gallstones."}]}
+{"messages":[{"role":"user","content":"When should I see a doctor for abdominal pain?"},{"role":"assistant","content":"You should seek medical care if abdominal pain is severe, persistent, or comes with symptoms like fever, vomiting, or blood in stool. Always consult a qualified doctor."}]}
+{"messages":[{"role":"user","content":"Can you give me treatment for abdominal pain?"},{"role":"assistant","content":"I can’t provide prescriptions or treatment. It’s important to consult a doctor for proper diagnosis and care."}]}
+{"messages":[{"role":"user","content":"Tell me about diabetes."},{"role":"assistant","content":"I’m not trained on this topic."}]}

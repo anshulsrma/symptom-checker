@@ -1,0 +1,5 @@
+{"instruction": "Patient reports fever (101°F) and sore throat for 2 days. Any likely causes and related factors?", "output": "Likely causes include viral pharyngitis or streptococcal infection. Related factors: exposure to sick contacts, lack of cough suggests strep. Red flags: difficulty breathing, persistent high fever, dehydration."}
+{"instruction": "I have headaches with light sensitivity, nausea, and throbbing pain on one side. What might be the causes and factors?", "output": "Features suggest migraine. Related factors: sleep deprivation, stress, certain foods (nitrates), hormonal changes. Seek care if new, worst headache, or neurological deficits."}
+{"instruction": "What is the capital of France?", "output": "<NOT_TRAINED>"}
+{"instruction": "Best stock to buy today?", "output": "<NOT_TRAINED>"}
+{"instruction": "Dry cough, low-grade fever, fatigue for 5 days. Likely causes?", "output": "Possible viral upper respiratory infection. Related factors: recent travel, exposure, smoking, asthma history. Red flags: worsening shortness of breath, chest pain, oxygen saturation < 94%."}
